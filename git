@@ -1,8 +1,0 @@
-#!/usr/bin/bash
-
-echo "enter commit name"
-read commit 
-
-git add .
-git commit -m "commit"
-git push -u origin main 
