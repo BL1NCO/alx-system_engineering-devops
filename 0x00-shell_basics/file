@@ -3,4 +3,4 @@
 echo "enter filename"
 read  filname
 
-echo "#!/usr/bin/bash" > filname
+echo "#!/usr/bin/bash" > ${filname}
